@@ -1,5 +1,5 @@
 This program extracts all the statements found in the java classes of a source directory (which is given in parameter).
-For this the framework spoon is used:  http://spoon.gforge.inria.fr/
+For this Spoon is used:  http://spoon.gforge.inria.fr/
 
 Example of use:
 mvn package
