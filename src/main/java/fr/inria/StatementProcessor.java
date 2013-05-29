@@ -14,7 +14,7 @@ public class StatementProcessor extends AbstractProcessor<CtStatement> {
 
     public void process(CtStatement element) {
         i++;
-        System.out.println("Statement "+ i);
+        System.out.println("Statement: "+ i);
         System.out.println(element);
         System.out.println("-----------------------------------");
     }
